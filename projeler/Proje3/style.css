@@ -1,0 +1,12 @@
+body{
+    background: #f4f4f4;
+}
+
+.navbar{
+    opacity: 0.8;
+    border-bottom: 1px solid #fff;
+}
+
+.jumbotron{
+    padding-top: 100px;
+}
