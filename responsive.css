@@ -34,6 +34,18 @@
     header:after {
             display: none;
         }
+    
+    .port-item{
+         margin-top: 40px;
+         position: relative;
+         z-index: 2;
+    }
+    
+    .port-item .overlay {
+        position: relative;
+        z-index: 2;
+        display: none;
+    }
 }
 
 @media (max-width: 400px) {
