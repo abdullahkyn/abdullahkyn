@@ -36,8 +36,8 @@
         }
 }
 
-@media (max-width: 415px) {
+@media (max-width: 400px) {
     .mobil-align{
-        margin-left: -10px;
+        margin-left: -15px;
     }
 }
