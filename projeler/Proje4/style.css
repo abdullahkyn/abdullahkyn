@@ -214,7 +214,7 @@ nav{
     display: none;
 }
 
-@media (max-width:76px){
+@media (max-width:768px){
     #logo-box {
         float: none;
         text-align: left;
