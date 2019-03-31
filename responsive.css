@@ -35,3 +35,9 @@
             display: none;
         }
 }
+
+@media (max-width: 415px) {
+    .mobil-align{
+        margin-left: -10px;
+    }
+}
