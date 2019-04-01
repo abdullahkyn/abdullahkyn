@@ -27,8 +27,14 @@
 
 
 @media (max-width: 768px) {
+    
+        .h3, h3 {
+            font-size: 1.5rem;
+        }
+    
     .profile-info{
             margin-top: 0;
+            width: 300px;
         }
     
     header:after {
@@ -45,5 +51,15 @@
         position: relative;
         z-index: 2;
         display: none;
+    }
+    
+    
+    .profile-skills{
+        width: 300px;
+    }
+    
+    .profile-skills-item{
+        width: 250px;
+        font-size: 22px;
     }
 }
